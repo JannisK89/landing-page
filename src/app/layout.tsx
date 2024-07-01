@@ -17,7 +17,7 @@ const fontBody = Space_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Jannis.Karanikis.Dev',
+  title: 'JannisKaranikis.Dev',
   description:
     'Jannis Karanikis, Software Engineer, NextJS, React, TypeScript, Tech Blog',
 }
