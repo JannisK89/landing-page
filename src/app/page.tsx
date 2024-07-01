@@ -18,6 +18,7 @@ export default function Home() {
             href="https://techblog.janniskaranikis.dev/portfolio"
             text="Portfolio"
           />
+          <PageLink href="mailto:jannis.karanikis@gmail.com" text="Email" />
         </nav>
       </div>
     </main>
