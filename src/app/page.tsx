@@ -11,7 +11,7 @@ export default function Home() {
           <PageLink href="https://github.com/JannisK89" text="Github" />
           <PageLink
             href="https://www.linkedin.com/in/jannis-karanikis-58248a179/"
-            text="LinkedIn"
+            text="Linkedin"
           />
           <PageLink href="https://techblog.janniskaranikis.dev/" text="Blog" />
           <PageLink
