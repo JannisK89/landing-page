@@ -3,7 +3,7 @@ import PageLink from './components/link'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col ">
+    <main className="flex min-h-screen flex-col items-center justify-center -mt-20">
       <div className="self-center flex flex-col gap-3">
         <AsciiArt />
         <h1 className="text-3xl font-bold self-center">JannisKaranikis.Dev</h1>
